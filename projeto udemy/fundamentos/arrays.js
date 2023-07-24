@@ -11,6 +11,6 @@ console.log(valores);
 
 console.log(valores.pop());
 delete valores [0]
-//tirar todos os valores da arrays
+//tirar os valores da arrays
 
 console.log(typeof valores);
